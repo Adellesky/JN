@@ -1,0 +1,11 @@
+@media (max-width: 768px) {
+  .featured_projects .responsive-container-block.img {
+    max-width: 200px;
+  }
+}
+
+@media (max-width: 500px) {
+  .featured_projects .responsive-container-block.img {
+    max-width: 160px;
+  }
+}
